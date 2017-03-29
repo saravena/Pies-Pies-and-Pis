@@ -1,8 +1,4 @@
-/* Name: Sabrina Aravena
-   Class: CS401
-   Assignment: #2 PPandP
-   Due Date: September 29, 2015
-*/
+// Name: Sabrina Aravena
 
 import java.util.Scanner;  // Needed for Scanner class
 
